@@ -27,6 +27,34 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "preserveOrder": 0,
+        "data": [
+          "Christie Church",
+          "Jamal Hartnett",
+          "Mateo Escobedo",
+          "Raisa Pokrovskaya",
+          "Francis Totten",
+          "Helena Petersen",
+          "Chuck Reinhart",
+          "Jia-hao Tseng",
+          "Johnnie McLeod",
+          "Nicole Zamora"
+        ],
+        "title": "Persona Names",
+        "icon": "smile",
+        "index": 8,
+        "userDefined": 1
+      }
+    }
+  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -44,7 +72,7 @@
                 {
                   "NSRGB": {
                     "type": "Buffer",
-                    "data": "0.4980392157 0.7294117647 0\u0000"
+                    "data": "0.7398750186 0.06114692241 0.879000783\u0000"
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
@@ -237,7 +265,7 @@
             {
               "NSRGB": {
                 "type": "Buffer",
-                "data": "0.4980392157 0.7294117647 0\u0000"
+                "data": "0.7398750186 0.06114692241 0.879000783\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {

@@ -27,6 +27,13 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -44,7 +51,7 @@
                 {
                   "NSRGB": {
                     "type": "Buffer",
-                    "data": "0.1411764706 0.3960784314 0.968627451\u0000"
+                    "data": "0.7398750186 0.06114692241 0.879000783\u0000"
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
@@ -237,7 +244,7 @@
             {
               "NSRGB": {
                 "type": "Buffer",
-                "data": "0.1411764706 0.3960784314 0.968627451\u0000"
+                "data": "0.7398750186 0.06114692241 0.879000783\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {

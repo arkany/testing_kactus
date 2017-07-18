@@ -28,6 +28,9 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    },
     "com.invisionlabs.duplicate": {
       "args": {
         "verticalCount": 10,
