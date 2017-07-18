@@ -34,12 +34,12 @@
           "scaleFactor": 1,
           "model_version": 0.1,
           "aspectRatio": {
-            "constant": 27,
-            "model_version": 0.1,
             "enabled": 1,
+            "model_version": 0.1,
+            "multiplier": 27,
             "modelID": "constraint_66d2e865-f81b-40c6-8ff3-3f5b4f4f3e2c",
             "model_class": "ADModelConstraint",
-            "multiplier": 27
+            "constant": 27
           },
           "modelID": "viewConstraints_e15fc4a4-85e3-4876-a500-dc059c90300e",
           "model_class": "ADModelViewConstraints",
@@ -74,9 +74,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2274509803921569,
-          "green": 0.1372549019607843,
-          "red": 0.08627450980392157
+          "blue": 0.9607843137254902,
+          "green": 0.9450980392156862,
+          "red": 0.9333333333333333
         },
         "fillType": 0,
         "noiseIndex": 0,

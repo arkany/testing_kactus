@@ -23,7 +23,7 @@
   "layerListExpandedType": 0,
   "name": "User Name",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -35,7 +35,7 @@
     },
     "com.invisionlabs.duplicate": {
       "type-duplicate": {
-        "index": 8,
+        "userDefined": 1,
         "data": [
           "Christie Church",
           "Jamal Hartnett",
@@ -50,8 +50,8 @@
         ],
         "title": "Persona Names",
         "icon": "smile",
-        "userDefined": 1,
-        "preserveOrder": 0
+        "preserveOrder": 0,
+        "index": 8
       }
     }
   },
