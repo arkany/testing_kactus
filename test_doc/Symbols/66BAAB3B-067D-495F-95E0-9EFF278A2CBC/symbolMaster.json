@@ -79,5 +79,9 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "E012372B-7950-44C4-A5F9-2BC231C18393",
+<<<<<<< HEAD
   "changeIdentifier": 6
+=======
+  "changeIdentifier": 12
+>>>>>>> aef252d5678d6c7e1494aa4f239a096b0036c289
 }
