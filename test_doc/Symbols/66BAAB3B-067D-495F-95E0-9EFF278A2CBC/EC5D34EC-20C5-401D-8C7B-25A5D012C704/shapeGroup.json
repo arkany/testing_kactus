@@ -34,12 +34,12 @@
           "scaleFactor": 1,
           "model_version": 0.1,
           "aspectRatio": {
-            "model_class": "ADModelConstraint",
+            "enabled": 1,
             "model_version": 0.1,
             "multiplier": 40,
-            "constant": 40,
-            "enabled": 1,
-            "modelID": "constraint_13989415-4814-4641-b25f-0fb8c92766ac"
+            "modelID": "constraint_13989415-4814-4641-b25f-0fb8c92766ac",
+            "model_class": "ADModelConstraint",
+            "constant": 40
           },
           "modelID": "viewConstraints_9dd7242f-214d-4f05-b794-a087c20ba7a8",
           "model_class": "ADModelViewConstraints",

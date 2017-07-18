@@ -44,6 +44,11 @@
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "overrides": {
+    "EC5D34EC-20C5-401D-8C7B-25A5D012C704": {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImageData",
+      "_ref": "images/232ca2e21b8962cbc13e829e55deee03b5bf7349"
+    },
     "D9C9267D-89E4-4DC6-B58A-B66C01CE9C00": "Mateo Escobedo"
   },
   "symbolID": "E012372B-7950-44C4-A5F9-2BC231C18393",
