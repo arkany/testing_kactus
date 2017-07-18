@@ -58,11 +58,43 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9950678944587708,
-          "green": 0.07292387634515762,
-          "red": 0.5637727975845337
+          "blue": 0.8790007829666138,
+          "green": 0.06114692240953445,
+          "red": 0.7398750185966492
         },
-        "fillType": 0,
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 1,
+          "from": "{0.39854166666666668, 1.2817708333333333}",
+          "gradientType": 0,
+          "shouldSmoothenOpacity": false,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.996078431372549,
+                "green": 0.07450980392156861,
+                "red": 0.5647058823529407
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 0,
+                "red": 0.8317307692307692
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.59831250000000002, -0.25755208333333335}"
+        },
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

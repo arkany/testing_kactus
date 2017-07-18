@@ -27,6 +27,27 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "scaleFactor": 1,
+          "model_version": 0.1,
+          "aspectRatio": {
+            "constant": 27,
+            "model_version": 0.1,
+            "enabled": 1,
+            "modelID": "constraint_66d2e865-f81b-40c6-8ff3-3f5b4f4f3e2c",
+            "model_class": "ADModelConstraint",
+            "multiplier": 27
+          },
+          "modelID": "viewConstraints_e15fc4a4-85e3-4876-a500-dc059c90300e",
+          "model_class": "ADModelViewConstraints",
+          "automatic": 1
+        }
+      }
+    }
+  },
   "style": {
     "_class": "style",
     "borders": [
