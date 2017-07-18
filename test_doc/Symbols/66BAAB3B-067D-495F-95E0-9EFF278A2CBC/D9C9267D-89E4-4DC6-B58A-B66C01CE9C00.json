@@ -35,7 +35,7 @@
     },
     "com.invisionlabs.duplicate": {
       "type-duplicate": {
-        "preserveOrder": 0,
+        "userDefined": 1,
         "data": [
           "Christie Church",
           "Jamal Hartnett",
@@ -50,8 +50,8 @@
         ],
         "title": "Persona Names",
         "icon": "smile",
-        "index": 8,
-        "userDefined": 1
+        "preserveOrder": 0,
+        "index": 8
       }
     }
   },
