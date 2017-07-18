@@ -21,8 +21,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Photo",
-  "nameIsFixed": true,
+  "name": "Oval",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -45,12 +45,6 @@
           "model_class": "ADModelViewConstraints",
           "automatic": 1
         }
-      }
-    },
-    "com.invisionlabs.duplicate": {
-      "photos-duplicate": {
-        "mode": "unsplash",
-        "category": "People"
       }
     }
   },
@@ -84,15 +78,10 @@
           "green": 0.9450980392156862,
           "red": 0.9333333333333333
         },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref_class": "MSImageData",
-          "_ref": "images/4badf66d98f4969a7e1bae8aa699439ee71b07f9"
-        },
+        "fillType": 0,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
