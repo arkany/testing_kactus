@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3A1BE81F-5B41-4929-ADF8-C47B078B5E8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 375,
+    "x": 0,
+    "y": 68
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list-item",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "horizontalSpacing": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "overrides": {
+    "D05FCCD0-BADA-4D34-9C1D-E06D66262FF2": "LOL",
+    "D5C769F0-A3EC-4EBF-8733-4974FD281454": "11/1",
+    "EC5D34EC-20C5-401D-8C7B-25A5D012C704": {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImageData",
+      "_ref": "images/acfe29c08c3faf6c5c3a28a03132ed29f0d21619"
+    },
+    "D9C9267D-89E4-4DC6-B58A-B66C01CE9C00": "Jamal Hartnett"
+  },
+  "symbolID": "E012372B-7950-44C4-A5F9-2BC231C18393",
+  "verticalSpacing": 0
+}

@@ -1,6 +1,6 @@
 {
   "_class": "text",
-  "do_objectID": "075E9FBF-458C-4BD8-A092-934A38D86C35",
+  "do_objectID": "D5C769F0-A3EC-4EBF-8733-4974FD281454",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 71,
-    "x": 152,
+    "width": 29,
+    "x": 321,
     "y": 15
   },
   "isFlippedHorizontal": false,
@@ -21,19 +21,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "App Name",
+  "name": "11/2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -51,7 +44,7 @@
                 {
                   "NSRGB": {
                     "type": "Buffer",
-                    "data": "0.7398750186 0.06114692241 0.879000783\u0000"
+                    "data": "0.2902216315 0.2901752889 0.2902374566\u0000"
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
@@ -101,15 +94,16 @@
                   "NSTabStops": {
                     "UID": 0
                   },
-                  "NSAlignment": 4,
+                  "NSAlignment": 1,
                   "NSAllowsTighteningForTruncation": 1,
                   "$class": {
                     "UID": 2
                   }
                 },
                 {
-                  "$classname": "NSParagraphStyle",
+                  "$classname": "NSMutableParagraphStyle",
                   "$classes": [
+                    "NSMutableParagraphStyle",
                     "NSParagraphStyle",
                     "NSObject"
                   ]
@@ -162,7 +156,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 14,
-                "SegoeUI-Bold",
+                "SegoeUI",
                 {
                   "$classname": "NSMutableDictionary",
                   "$classes": [
@@ -210,7 +204,7 @@
                 "UID": 3
               }
             },
-            "App Name",
+            "11/2",
             {
               "NS.keys": [
                 {
@@ -244,7 +238,7 @@
             {
               "NSRGB": {
                 "type": "Buffer",
-                "data": "0.7398750186 0.06114692241 0.879000783\u0000"
+                "data": "0.2902216315 0.2901752889 0.2902374566\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
@@ -278,15 +272,16 @@
               "NSTabStops": {
                 "UID": 0
               },
-              "NSAlignment": 4,
+              "NSAlignment": 1,
               "NSAllowsTighteningForTruncation": 1,
               "$class": {
                 "UID": 12
               }
             },
             {
-              "$classname": "NSParagraphStyle",
+              "$classname": "NSMutableParagraphStyle",
               "$classes": [
+                "NSMutableParagraphStyle",
                 "NSParagraphStyle",
                 "NSObject"
               ]
@@ -323,7 +318,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             14,
-            "SegoeUI-Bold",
+            "SegoeUI",
             {
               "$classname": "NSMutableDictionary",
               "$classes": [
@@ -366,7 +361,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 5}, {70, 14}}",
+  "glyphBounds": "{{1, 4}, {27, 13}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0

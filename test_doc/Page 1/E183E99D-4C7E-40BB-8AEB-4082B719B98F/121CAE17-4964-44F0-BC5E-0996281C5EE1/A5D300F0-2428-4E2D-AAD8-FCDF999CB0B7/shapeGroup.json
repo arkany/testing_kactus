@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "6fbf62c0-6bd1-11e7-a699-ed020d6a66c8",
+  "_class": "shapeGroup",
+  "do_objectID": "A5D300F0-2428-4E2D-AAD8-FCDF999CB0B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,8 +11,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 680,
+    "width": 375,
     "x": 0,
     "y": 0
   },
@@ -20,35 +20,38 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Page 1",
+  "layerListExpandedType": 1,
+  "name": "Duplicate control",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    },
+    "com.invisionlabs.duplicate": {
+      "args": {
+        "verticalCount": 10,
+        "verticalGutter": 0
+      }
+    }
+  },
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "layers": [
     {
-      "id": "E183E99D-4C7E-40BB-8AEB-4082B719B98F",
-      "class": "artboard"
+      "id": "2100D11A-8AC4-48A6-BF8B-18889AE1FC41",
+      "class": "shapePath"
     }
   ],
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": []
-  },
-  "includeInCloudUpload": true,
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": []
-  }
+  "clippingMaskMode": 0,
+  "hasClippingMask": true,
+  "windingRule": 1
 }

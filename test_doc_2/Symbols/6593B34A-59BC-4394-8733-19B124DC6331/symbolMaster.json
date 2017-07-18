@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "6fbf62c0-6bd1-11e7-a699-ed020d6a66c8",
+  "_class": "symbolMaster",
+  "do_objectID": "6593B34A-59BC-4394-8733-19B124DC6331",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,9 +11,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 48,
+    "width": 375,
+    "x": 575,
     "y": 0
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Page 1",
+  "name": "header",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -36,19 +36,36 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "E183E99D-4C7E-40BB-8AEB-4082B719B98F",
-      "class": "artboard"
+      "id": "C0A5EA62-5F21-4DB9-8CE7-DA0F2FF13B3B",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "075E9FBF-458C-4BD8-A092-934A38D86C35",
+      "class": "text"
     }
   ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "hasBackgroundColor": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": []
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "resizesContent": false,
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": []
-  }
+  },
+  "includeBackgroundColorInInstance": false,
+  "symbolID": "97DA73E0-0CE4-4A26-9375-38F5656F5539",
+  "changeIdentifier": 7
 }

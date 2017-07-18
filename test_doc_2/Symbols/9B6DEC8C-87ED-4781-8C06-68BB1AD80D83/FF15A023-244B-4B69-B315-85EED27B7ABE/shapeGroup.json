@@ -1,6 +1,6 @@
 {
   "_class": "shapeGroup",
-  "do_objectID": "10D3AB17-EF6A-4F83-8F2B-9CD4E8E5A7A0",
+  "do_objectID": "FF15A023-244B-4B69-B315-85EED27B7ABE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -13,7 +13,7 @@
     "constrainProportions": true,
     "height": 27,
     "width": 27,
-    "x": 317,
+    "x": 31,
     "y": 17
   },
   "isFlippedHorizontal": false,
@@ -21,33 +21,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Rectangle 2 Copy 2",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "constraints": {
-          "scaleFactor": 1,
-          "model_version": 0.1,
-          "aspectRatio": {
-            "model_class": "ADModelConstraint",
-            "enabled": 1,
-            "model_version": 0.1,
-            "constant": 27,
-            "multiplier": 27,
-            "modelID": "constraint_66d2e865-f81b-40c6-8ff3-3f5b4f4f3e2c"
-          },
-          "modelID": "viewConstraints_e15fc4a4-85e3-4876-a500-dc059c90300e",
-          "model_class": "ADModelViewConstraints",
-          "automatic": 1
-        }
-      }
-    }
-  },
   "style": {
     "_class": "style",
     "borders": [
@@ -91,7 +70,7 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "3192C107-DC17-46B0-ACAB-2AB749E956E1",
+      "id": "989B9961-FBFE-443E-99FC-8D773F3E9595",
       "class": "rectangle"
     }
   ],
